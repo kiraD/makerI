@@ -1,4 +1,4 @@
-#<en cours de dev>
+#(en cours de dev)
 #mini moteur de Jeu 2D et isometric view  : 
 
 ![Capture 1](cap.jpg)
